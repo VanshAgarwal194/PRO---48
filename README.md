@@ -1,2 +1,3 @@
-# spectagram-stage-1
-project solution for c81
+HELLO!
+
+WELCOME TO THE WORLD OF CODE...
